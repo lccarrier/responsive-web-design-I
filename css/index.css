@@ -286,9 +286,14 @@ section.hero {
   width: auto;
 }
 
-.content, section{
+.content, section,  hr.normal{
   margin: 0px 10px 0px 10px;
 }
+
+hr.normal{
+  margin: 25px 10px 0px 10px;
+}
+
 
 footer {
   margin: 40px 0px 10px 0px;
